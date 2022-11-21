@@ -55,3 +55,5 @@ The seed command can be run multiple times and work correctly.
 A response is included for Method Not Allowed.
 The cors package is included.
 The entire application is deployed and working.
+
+Deployed Site: https://macislyfe-thinkful-welovemovies.onrender.com
